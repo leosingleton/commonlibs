@@ -1,6 +1,6 @@
 {
   "name": "@leosingleton/commonlibs",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "author": "Leo C. Singleton IV <leo@leosingleton.com>",
   "description": "Common Libraries for TypeScript and .NET Core",
   "homepage": "https://github.com/leosingleton/commonlibs",
